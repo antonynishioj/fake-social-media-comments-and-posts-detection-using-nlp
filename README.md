@@ -11,10 +11,7 @@ This project implements a fake news detection system that utilizes Natural Langu
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Getting Started](#getting-started)
-- [Usage](#usage)
-- [How It Works](#how-it-works)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Features
 
@@ -42,5 +39,5 @@ This project implements a fake news detection system that utilizes Natural Langu
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/fake-news-detection.git
-   cd fake-news-detection
+   [git clone https://github.com/yourusername/fake-news-detection.git
+   cd fake-news-detection](https://github.com/antonynishioj/fake-social-media-comments-and-posts-detection-using-nlp)
